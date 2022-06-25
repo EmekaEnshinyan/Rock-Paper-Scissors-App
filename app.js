@@ -90,10 +90,10 @@ function tie(){
 }
 
 function resetGame(){
-    document.getElementById("computer-choice").innerText = " ";
-    document.getElementById("user-choice").innerText = " ";
-    document.getElementById("winner").innerText = " ";
-    document.getElementById("user-score").innerText = " ";
-    document.getElementById("computer-score").innerText = " ";
+    document.getElementById("computer-choice").innerText = "";
+    document.getElementById("user-choice").innerText = "";
+    document.getElementById("winner").innerText = "";
+    document.getElementById("user-score").innerText = "";
+    document.getElementById("computer-score").innerText = "";
     resetSelection = selection;
 }
