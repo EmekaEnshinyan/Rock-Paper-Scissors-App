@@ -5,11 +5,11 @@ p {
   font-size: 40px;
 }
 #user-score {
-  font-size: 20px;
+  font-size: 40px;
 }
 #computer-score {
   margin-top: 0px;
-  font-size: 20px;
+  font-size: 40px;
 }
 .buttons {
   padding-bottom: 30px;
