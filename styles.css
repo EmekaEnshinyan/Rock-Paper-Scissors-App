@@ -1,33 +1,34 @@
-body{
-    text-align: center;
+body {
+  text-align: center;
+  font-size: 50px;
 }
-.buttons{
-   
-padding-bottom: 100px;
-     
+.buttons {
+  padding-bottom: 100px;
 }
-#rockBtn{
-    color: transparent; 
-    border: 0;
-    background-image: url(rock.jpg);
-    height: 160px;
-    width: 200px;
-    background-color: transparent;
-    
+#reset {
+  font-size: 50px;
 }
-#paperBtn{
-    color: transparent; 
-    border: 0;
-    background-image: url(paper.jpg);
-    height: 160px;
-    width: 200px;
-    background-color: transparent;
+#rockBtn {
+  color: transparent;
+  border: 0;
+  background-image: url(rock.jpg);
+  height: 160px;
+  width: 200px;
+  background-color: transparent;
 }
-#scissorsBtn{
-    color: transparent; 
-    border: 0;
-    background-image: url(scissors.jpg);
-    height: 200px;
-    width: 270px;
-    background-color: transparent;
+#paperBtn {
+  color: transparent;
+  border: 0;
+  background-image: url(paper.jpg);
+  height: 160px;
+  width: 200px;
+  background-color: transparent;
+}
+#scissorsBtn {
+  color: transparent;
+  border: 0;
+  background-image: url(scissors.jpg);
+  height: 200px;
+  width: 270px;
+  background-color: transparent;
 }
